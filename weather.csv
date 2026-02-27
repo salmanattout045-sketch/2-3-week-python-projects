@@ -1,0 +1,6 @@
+city,description,temperature,feels_like,humidity,sunrise,sunset
+Madrid,light intensity shower rain,11.69,10.82,73,1770276027,1770313029
+Cairo,dust,22.42,21.27,21,1770266585,1770305693
+New York,clear sky,-3.23,-7.51,59,1770292922,1770329882
+Chicago,light snow,-4.89,-10.39,79,1770296331,1770333023
+Los Angeles,clear sky,17.92,16.58,31,1770302820,1770341220

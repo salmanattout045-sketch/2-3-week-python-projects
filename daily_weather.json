@@ -1,0 +1,44 @@
+[
+    {
+        "city": "Warsaw",
+        "temperature": 31.82,
+        "condition": "mist",
+        "humidity": 95,
+        "fetched_at": "2026-02-06T06:45:17.976757+00:00"
+    },
+    {
+        "city": "Madrid",
+        "temperature": 43.02,
+        "condition": "few clouds",
+        "humidity": 89,
+        "fetched_at": "2026-02-06T06:45:18.082706+00:00"
+    },
+    {
+        "city": "Cairo",
+        "temperature": 68.76,
+        "condition": "clear sky",
+        "humidity": 28,
+        "fetched_at": "2026-02-06T06:45:18.185615+00:00"
+    },
+    {
+        "city": "Chicago",
+        "temperature": 28.63,
+        "condition": "broken clouds",
+        "humidity": 84,
+        "fetched_at": "2026-02-06T06:45:18.287351+00:00"
+    },
+    {
+        "city": "Los Angeles",
+        "temperature": 62.33,
+        "condition": "broken clouds",
+        "humidity": 71,
+        "fetched_at": "2026-02-06T06:45:18.385881+00:00"
+    },
+    {
+        "city": "Vienna",
+        "temperature": 39.9,
+        "condition": "broken clouds",
+        "humidity": 92,
+        "fetched_at": "2026-02-06T06:45:18.485496+00:00"
+    }
+]
