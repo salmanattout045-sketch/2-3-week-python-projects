@@ -22,7 +22,7 @@ print(r_dict['form'])
 #now heres how to authenticate:
 
 
-r= requests.get('https://httpbin.org//basic-auth/salman/testing', auth=('salman','testing'))
+r= requests.get()
 print(r.text)
 
 #exersice 1
