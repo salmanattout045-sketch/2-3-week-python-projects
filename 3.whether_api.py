@@ -6,7 +6,7 @@ import requests
 from weather_and_csv import CSV_FILE
 
 site_url = "https://api.openweathermap.org/data/2.5/weather?"
-API_KEY = "db88696fd3c493f7f86750e80d0e5ed2"
+API_KEY = "Your_API"
 CITY = "Warsaw"
 
 def kelvin_to_celsius_fahrenheit(kelvin):
